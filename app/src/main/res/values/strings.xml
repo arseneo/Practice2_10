@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">Practice2_10</string>
+<string name="hint_model">Модель</string>
+<string name="hint_serial_number">Серийный номер</string>
+<string name="hint_price">Цена</string>
+<string name="button_save">Сохранить в базу</string>
+<string name="button_view">Просмотреть базу</string>
+<string name="error_empty_fields">Необходимо заполнить все поля</string>
+<string name="error_invalid_price">Неверная цена</string>
+<string name="error_negative_price">Цена не может быть отрицательной величиной</string>
+<string name="phone_saved">Телефон сохранен</string>
+<string name="error_saving_phone">Ошибка сохранения</string>
+</resources>
